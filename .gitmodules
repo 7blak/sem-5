@@ -1,0 +1,18 @@
+[submodule "ML-intro"]
+	path = ML-intro
+	url = https://github.com/YouRekt/ML-intro
+[submodule "react-backend"]
+	path = react-backend
+	url = https://github.com/7blak/react-backend
+[submodule "react-labs/Tuesday_MateuszMalachowski"]
+	path = react-labs/Tuesday_MateuszMalachowski
+	url = https://github.com/pwmini2024/Tuesday_MateuszMalachowski
+[submodule "react-project/cars-admin"]
+	path = react-project/cars-admin
+	url = https://github.com/YouRekt/cars-admin
+[submodule "react-project/cars-mobile"]
+	path = react-project/cars-mobile
+	url = https://github.com/mvishiu11/cars-mobile
+[submodule "react-project/testbackend"]
+	path = react-project/testbackend
+	url = https://github.com/YouRekt/testbackend
